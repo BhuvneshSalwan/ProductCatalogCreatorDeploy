@@ -1,0 +1,7 @@
+com\xplank\entities\Client.class
+com\xplank\entities\Campaign.class
+com\xplank\entities\ProductCatalog.class
+com\xplanck\main\CSVCreator.class
+com\xplanck\main\Common.class
+com\xplanck\DBDao\CreateSessionFactory.class
+com\xplanck\main\App.class
